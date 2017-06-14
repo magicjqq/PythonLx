@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import os
 
 # Return CPU temperature as a character string                                      
